@@ -4,7 +4,6 @@
     background-position: 50%;
     padding: 5rem 0;
 }
-
 .barra {
     display: flex;
     flex-direction: column;
@@ -16,7 +15,6 @@
         justify-content: space-between;
     }
 }
-
 .navegacion {
     margin-top: 5rem;
     display: flex;
@@ -27,7 +25,6 @@
         margin-top: 0;
     }
 }
-
 .navegacion a {
     color: var(--blanco);
     text-decoration: none;
@@ -38,7 +35,6 @@
     transition-property: background-color;
     transition-duration: .3s;
 }
-
 .navegacion a:hover {
     background-color: var(--primary);
 }
